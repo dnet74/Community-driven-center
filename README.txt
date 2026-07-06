@@ -1,0 +1,1 @@
+Place your transparent logo in images/logo.png and upload pantry photos into the images folder. Future pages can be added.
